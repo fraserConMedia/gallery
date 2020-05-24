@@ -11,9 +11,15 @@ function PhotoGallery() {
 
   return (
     <div>
-      <SRLWrapper>
+    <SRLWrapper>
       <Gallery className="photo" photos={photos} />
-      </SRLWrapper>
+    </SRLWrapper>
+    <footer class="py-5 bg-dark">
+        <div class="container">
+            <p class="m-0 text-center text-white">Copyright &copy; Fraser Construction 2020</p>
+        </div>
+    
+    </footer>
      
     </div>
   );
