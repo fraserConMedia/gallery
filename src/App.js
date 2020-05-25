@@ -10,9 +10,10 @@ function App() {
 
   return (
     <div>
+      
       <SimpleReactLightbox>
       <Nav />
-      
+      <h1>Photo Gallery</h1>
       <Gallery />
       </SimpleReactLightbox>
      
