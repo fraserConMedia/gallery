@@ -6,12 +6,7 @@ import {
   NavbarBrand,
   Nav,
   NavItem,
-  NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
-  NavbarText
+  NavLink
 } from "reactstrap";
 
 import "./App.css"
@@ -24,7 +19,7 @@ const Example = props => {
   return (
     <div>
       <Navbar color="dark" light expand="md">
-        <NavbarBrand href="https://angry-mccarthy-363a49.netlify.app/"><img src={"img/logo.png"} alt="Company logo" class="logo-brand" /> </NavbarBrand>        <NavbarToggler onClick={toggle} />
+        <NavbarBrand href="https://angry-mccarthy-363a49.netlify.app/"><img src={"img/logo.png"} alt="Company logo" className="logo-brand" /> </NavbarBrand>        <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem>

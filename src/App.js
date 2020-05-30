@@ -13,7 +13,8 @@ function App() {
       
       <SimpleReactLightbox>
       <Nav />
-      <h1>Photo Gallery</h1>
+      <h1 className="gallery-title">Fraser Gallery</h1>
+      
       <Gallery />
       </SimpleReactLightbox>
      

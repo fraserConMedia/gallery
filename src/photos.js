@@ -17,7 +17,7 @@ export const photos = [
   },
   {
     src: "/img/livingArea/4.jpg",
-    width: 3,
+    width: 4,
     height: 4
   },
   {
@@ -27,12 +27,17 @@ export const photos = [
   },
   {
     src: "/img/livingArea/6.jpg",
-    width: 4,
+    width: 3,
     height: 4
   },
   {
     src: "/img/livingArea/7.jpg",
     width: 4,
+    height: 4
+  },
+  {
+    src: "/img/livingArea/8.jpg",
+    width: 3,
     height: 4
   },
   {
@@ -53,7 +58,7 @@ export const photos = [
 
   {
     src: "/img/livingArea/12.jpg",
-    width: 3,
+    width: 4,
     height: 4
   },
   {
@@ -63,12 +68,12 @@ export const photos = [
   },
   {
     src: "/img/livingArea/14.jpg",
-    width: 4,
+    width: 3,
     height: 4
   },
   {
     src: "/img/livingArea/15.jpg",
-    width: 4,
+    width: 3,
     height: 4
   },
   {
@@ -78,7 +83,7 @@ export const photos = [
   },
   {
     src: "/img/livingArea/17.jpg",
-    width: 4,
+    width: 3,
     height: 4
   },
   {
@@ -88,17 +93,17 @@ export const photos = [
   },
     {
       src: "/img/bathroom/real1.jpg",
-      width: 4,
+      width: 3,
       height: 4, 
     },
     {
         src: "/img/bathroom/2.jpg",
-        width: 4,
+        width: 3,
       height: 4
     },
     {
         src: "/img/bathroom/3sized.jpg",
-        width: 5,
+        width: 4,
       height: 4
     },
     {
@@ -108,22 +113,22 @@ export const photos = [
     },
     {
         src: "/img/bathroom/5.jpg",
-        width: 3,
+        width: 4,
         height: 4
     },
     {
         src: "/img/bathroom/6.jpg",
-        width: 4,
+        width: 3,
       height: 4
     },
     {
         src: "/img/bathroom/7.jpg",
-        width: 4,
+        width: 3,
       height: 4
     },
     {
         src: "/img/bathroom/8.jpg",
-        width: 4,
+        width: 3,
       height: 4
     },
     {
@@ -136,6 +141,11 @@ export const photos = [
         width: 4,
         height: 4
     },
+    {
+      src: "/img/bathroom/9B.jpg",
+      width: 3,
+      height: 4
+  },
    
     {
         src: "/img/bathroom/9C.jpg",
