@@ -7,14 +7,24 @@
     margin: 0 auto;
 }
 .gallery-title{ 
+    font-family: 'Oswald', sans-serif;
     font-size: 80px;
     margin: 10px 0 50px 0;
     padding: 10px;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
 }
 
 .navbar-toggle-icon{ 
     color: grey;
 }
+.gallery-section{ 
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    margin: 50px 0 5px 0;
+    padding: 10px;
+}
+
 @media screen and (max-width: 450px) {
   
     .gallery-title{ 
