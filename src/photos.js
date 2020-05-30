@@ -91,6 +91,50 @@ export const photos = [
     width: 4,
     height: 4
   },
+  {
+    src: "/img/kitchen/29.jpg",
+    width: 4,
+    height: 4
+  },
+  {
+    src: "/img/kitchen/30.jpg",
+    width: 3,
+    height: 4
+  },
+
+  {
+    src: "/img/kitchen/31.jpg",
+    width: 4,
+    height: 4
+  },
+  {
+    src: "/img/kitchen/32.jpg",
+    width: 4,
+    height: 4
+  },
+
+  {
+    src: "/img/kitchen/33.jpg",
+    width: 4,
+    height: 4
+  },
+  {
+    src: "/img/kitchen/34.jpg",
+    width: 4,
+    height: 4
+  },
+
+  {
+    src: "/img/kitchen/35.jpg",
+    width: 4,
+    height: 4
+  },
+  {
+    src: "/img/kitchen/36.jpg",
+    width: 4,
+    height: 4
+  },
+  
     {
       src: "/img/bathroom/real1.jpg",
       width: 3,
