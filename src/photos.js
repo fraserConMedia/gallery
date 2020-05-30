@@ -1,7 +1,7 @@
 export const photos = [
 
   {
-    src: "/img/livingArea/1.jpg",
+    src: "/img/livingArea/3.jpg",
     width: 4,
     height: 4
   },
@@ -11,7 +11,7 @@ export const photos = [
     height: 4
   },
   {
-    src: "/img/livingArea/3.jpg",
+    src: "/img/livingArea/1.jpg",
     width: 4,
     height: 4
   },
@@ -93,7 +93,7 @@ export const photos = [
     },
     {
         src: "/img/bathroom/2.jpg",
-        width: 3,
+        width: 4,
       height: 4
     },
     {
@@ -108,7 +108,7 @@ export const photos = [
     },
     {
         src: "/img/bathroom/5.jpg",
-        width: 4,
+        width: 3,
         height: 4
     },
     {
@@ -133,7 +133,7 @@ export const photos = [
     },
     {
         src: "/img/bathroom/9A.jpg",
-        width: 5,
+        width: 4,
         height: 4
     },
    
@@ -149,7 +149,7 @@ export const photos = [
   },
   {
     src: "/img/bedroom/2.jpg",
-    width: 3,
+    width: 4,
     height: 4
 },
 {
@@ -164,12 +164,12 @@ export const photos = [
 },
 {
   src: "/img/bedroom/1-shelves.jpg",
-  width: 4,
+  width: 3,
   height: 4
 },
 {
   src: "/img/bedroom/5.jpg",
-  width: 3,
+  width: 4,
   height: 4
 },
 {
@@ -184,7 +184,7 @@ export const photos = [
 },
 {
   src: "/img/bedroom/8.jpg",
-  width: 4,
+  width: 3,
   height: 4
 }
 

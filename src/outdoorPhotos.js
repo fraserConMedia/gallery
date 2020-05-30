@@ -11,7 +11,7 @@ export const outdoorPhotos = [
       },
       {
         src: "/img/outdoor/3-min.jpg",
-        width: 4,
+        width: 3,
         height: 4
       },
       {
@@ -26,7 +26,7 @@ export const outdoorPhotos = [
       },
       {
         src: "/img/outdoor/6-min.jpg",
-        width: 4,
+        width: 3,
         height: 4
       },
       {
@@ -51,7 +51,7 @@ export const outdoorPhotos = [
       },
       {
         src: "/img/outdoor/11-min.jpg",
-        width: 4,
+        width: 3,
         height: 4
       },
       {
@@ -61,7 +61,7 @@ export const outdoorPhotos = [
       },
       {
         src: "/img/outdoor/13-min.jpg",
-        width: 4,
+        width: 3,
         height: 4
       },
       {
@@ -76,6 +76,16 @@ export const outdoorPhotos = [
       },
       {
         src: "/img/outdoor/16-min.jpg",
+        width: 4,
+        height: 4
+      },
+      {
+        src: "/img/outdoor/17-min.jpg",
+        width: 3,
+        height: 4
+      },
+      {
+        src: "/img/outdoor/18-min.jpg",
         width: 4,
         height: 4
       },
