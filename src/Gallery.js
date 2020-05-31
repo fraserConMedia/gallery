@@ -19,7 +19,7 @@ function PhotoGallery() {
         <h2 className="gallery-section">KITCHEN</h2>
       <Gallery className="photo" photos={kitchenPhotos} />
 
-      <h2 className="gallery-section">INDOOR</h2>
+      <h2 className="gallery-section">LIVING</h2>
 
         <Gallery className="photo" photos={photos} />
       

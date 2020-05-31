@@ -19,11 +19,11 @@ const Example = props => {
   return (
     <div>
       <Navbar color="dark" light expand="md">
-        <NavbarBrand href="https://angry-mccarthy-363a49.netlify.app/"><img src={"img/logo.png"} alt="Company logo" className="logo-brand" /> </NavbarBrand>        <NavbarToggler onClick={toggle} />
+        <NavbarBrand href="https://fraserconstructionco.com"><img src={"img/logo.png"} alt="Company logo" className="logo-brand" /> </NavbarBrand>        <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem>
-              <NavLink href="https://angry-mccarthy-363a49.netlify.app/" style={{color: '#82868A', textDecoration: 'none'}}>Home</NavLink>
+              <NavLink href="https://fraserconstructionco.com/about.html" style={{color: '#82868A', textDecoration: 'none'}}>Home</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="/" style={{color: '#82868A', textDecoration: 'none'}}>
@@ -36,7 +36,7 @@ const Example = props => {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://angry-mccarthy-363a49.netlify.app/contact.html" style={{color: '#82868A', textDecoration: 'none'}}>
+              <NavLink href="https://fraserconstructionco.com/contact.html" style={{color: '#82868A', textDecoration: 'none'}}>
                 Contact
               </NavLink>
             </NavItem>
