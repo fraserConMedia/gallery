@@ -15,8 +15,8 @@
   -webkit-text-stroke-color: white;
 }
 
-.navbar-toggle-icon{ 
-    color: grey;
+.navbar-toggler-icon{ 
+    border: none;
 }
 .gallery-section{ 
     font-family: 'Oswald', sans-serif;
