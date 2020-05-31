@@ -23,10 +23,10 @@ const Example = props => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem>
-              <NavLink href="https://fraserconstructionco.com/about.html" style={{color: '#82868A', textDecoration: 'none'}}>Home</NavLink>
+              <NavLink href="https://fraserconstructionco.com" style={{color: '#82868A', textDecoration: 'none'}}>Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/" style={{color: '#82868A', textDecoration: 'none'}}>
+              <NavLink href="https://fraserconstructionco.com/about.html" style={{color: '#82868A', textDecoration: 'none'}}>
                 About
               </NavLink>
             </NavItem>
